@@ -13,7 +13,7 @@ device["ip"] = "10.1.1.1"
 # SIMPLE PRINT
 print("\n_____ SIMPLE PRINT ____________________")
 print("device:", device)
-print("device name:", device["name"])
+print("my device name:", device["name"])
 
 # PRETTY PRINT
 print("\n_____ PRETTY PRINT ____________________")
